@@ -1,2 +1,6 @@
 # fcc-rosetta-code
-map(solve, fcc_rosetta_code_problems)
+
+* Python solutions for Rosetta code problems on 
+[freeCodeCamp](https://freecodecamp.org/learn) (inside the "Coding Interview 
+Prep" section). 
+
